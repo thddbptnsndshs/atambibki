@@ -1,0 +1,89 @@
+10:06:12,442 root INFO started connecting to the DB...
+10:06:12,460 root INFO Pinged your deployment. You successfully connected to MongoDB!
+10:06:12,933 root INFO found 81 bib documents
+10:06:12,933 root INFO starting processing...
+10:07:02,217 root INFO started connecting to the DB...
+10:07:02,236 root INFO Pinged your deployment. You successfully connected to MongoDB!
+10:07:02,573 root INFO found 81 bib documents
+10:07:02,573 root INFO starting processing...
+10:07:02,689 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+10:07:02,788 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+10:07:02,874 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+10:07:02,875 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+10:07:02,901 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref_old.bib
+10:07:02,944 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+10:07:02,974 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+10:07:03,77 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+10:07:03,188 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+10:07:03,204 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+10:07:03,252 root INFO finished refreshing the base! yay!
+10:07:07,348 root INFO started connecting to the DB...
+10:07:07,364 root INFO Pinged your deployment. You successfully connected to MongoDB!
+10:07:07,585 root INFO found 81 bib documents
+10:07:07,585 root INFO starting processing...
+10:07:07,693 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+10:07:07,789 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+10:07:07,873 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+10:07:07,873 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+10:07:07,895 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref_old.bib
+10:07:07,932 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+10:07:07,962 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+10:07:08,66 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+10:07:08,179 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+10:07:08,198 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+10:07:08,242 root INFO finished refreshing the base! yay!
+10:07:12,135 root INFO started connecting to the DB...
+10:07:12,152 root INFO Pinged your deployment. You successfully connected to MongoDB!
+10:07:12,152 root INFO looking for lowenstamm1996, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+10:07:12,161 root INFO incredible. found 16 entries out of 28
+10:07:12,161 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+10:07:12,161 root INFO finished building the ref file! yay!
+11:27:32,88 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:28:13,938 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:30:30,779 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:30:43,48 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:31:17,79 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:33:07,154 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:34:06,146 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:34:24,329 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:35:51,177 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:36:06,527 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:36:27,977 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:38:02,755 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:38:17,252 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:38:26,774 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:38:43,706 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:38:50,504 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:41:34,330 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:41:44,78 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:19,816 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:23,266 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:41,476 root INFO started connecting to the DB...
+11:42:41,497 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:42,562 root INFO found 80 bib documents
+11:42:42,562 root INFO starting processing...
+11:42:42,856 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+11:42:43,66 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+11:42:43,295 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+11:42:43,296 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+11:42:43,361 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref.bib
+11:42:43,488 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+11:42:43,563 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+11:42:43,704 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+11:42:43,961 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+11:42:43,991 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+11:42:44,91 root INFO finished refreshing the base! yay!
+11:42:51,201 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:54,38 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:43:39,421 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:43:42,940 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:44:22,227 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:44:25,720 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:45:30,728 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:45:34,413 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:45:56,373 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:00,46 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:10,366 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:14,992 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:41,548 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:51,883 root INFO Pinged your deployment. You successfully connected to MongoDB!

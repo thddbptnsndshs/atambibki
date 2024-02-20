@@ -1,0 +1,7 @@
+filenames:
+  rootdir: '/Users/shikunova/Desktop/uni'
+  out_path: '/Users/shikunova/atambibki/misc/bib_files.txt'
+log_path: '/Users/shikunova/atambibki/misc/log.txt'
+biber_output_path: '/Users/shikunova/atambibki/misc/temp_biber.txt'
+database:
+  refresh: true
