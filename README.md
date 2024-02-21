@@ -24,22 +24,13 @@ A bibliography management tool for biblatex, built with Python and MongoDB. Gath
 
 4. Give the necessary access permissions to the script:
 
-<<<<<<< HEAD
 `cd /usr/local/bin` <br>
 `sudo chmod -x atambibki`<br>
 `sudo chmod 755 atambibki`<br>
 
 5. Open the `~/.zshrc` file and append the following lines:
-=======
-`texops [-h | -p | -s] -t <path/to/working/dir>`
-
-:pushpin: `-h` -- handout, paper-style<br>
-:pushpin: `-p` -- poster<br>
-:pushpin: `-s` -- slides<br>
-:pushpin: `-t` -- add a file with templates<br>
->>>>>>> a2cc7e7746c2b94c2169e855a68f94b6468292bc
 
 `atambibki() {`<br>
-   `bash ~/atambibki/atambibki $1 $2}`<br>
+`bash ~/atambibki/atambibki $1 $2}`<br>
 
 6. Restart your Terminal. You can use the script now. Yay!
