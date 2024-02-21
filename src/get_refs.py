@@ -33,11 +33,12 @@ if __name__ == "__main__":
     for key in refs_to_find:
         result = list(refs.find({'_id': key}))
         if result:
-            found.append(result)
+            found.append(result[0])
 
     logging.info(f'incredible. found {len(found)} entries out of {len(refs_to_find)}')
     logging.info(f'writing to {os.environ["PROJECT_PATH"]}')
     with open(os.environ["PROJECT_PATH"] + '/ref.bib', 'a') as f:
         for entry_dict in found:
-            f.write(dict2bib(entry_dict[0]) + '\n\n')
+            # print(entry_dict)
+            f.write(entry_dict['string'] + '\n\n')
     logging.info('finished building the ref file! yay!')

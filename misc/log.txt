@@ -87,3 +87,89 @@
 11:46:14,992 root INFO Pinged your deployment. You successfully connected to MongoDB!
 11:46:41,548 root INFO Pinged your deployment. You successfully connected to MongoDB!
 11:46:51,883 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:50:34,50 root INFO started connecting to the DB...
+11:50:34,64 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:50:35,36 root INFO found 80 bib documents
+11:50:35,36 root INFO starting processing...
+11:50:35,280 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+11:50:35,453 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+11:50:35,663 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+11:50:35,663 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+11:50:35,713 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref.bib
+11:50:35,806 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+11:50:35,878 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+11:50:36,16 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+11:50:36,236 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+11:50:36,259 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+11:50:36,357 root INFO finished refreshing the base! yay!
+11:42:41,980 root INFO started connecting to the DB...
+11:42:41,996 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:42:43,93 root INFO found 80 bib documents
+11:42:43,93 root INFO starting processing...
+11:42:43,329 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+11:42:43,487 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+11:42:43,682 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+11:42:43,683 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+11:42:43,733 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref.bib
+11:42:43,828 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+11:42:43,895 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+11:42:44,30 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+11:42:44,234 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+11:42:44,258 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+11:42:44,342 root INFO finished refreshing the base! yay!
+11:43:25,295 root INFO started connecting to the DB...
+11:43:25,312 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:43:25,312 root INFO looking for 
+11:43:25,312 root INFO incredible. found 0 entries out of 0
+11:43:25,312 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:43:25,312 root INFO finished building the ref file! yay!
+11:43:57,173 root INFO started connecting to the DB...
+11:43:57,190 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:43:57,190 root INFO looking for lowenstamm1996, scheer2004, scheer2012, klv1990, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+11:43:57,200 root INFO incredible. found 19 entries out of 31
+11:43:57,200 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:44:34,251 root INFO started connecting to the DB...
+11:44:34,270 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:44:34,271 root INFO looking for lowenstamm1996, scheer2004, scheer2012, klv1990, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+11:44:34,283 root INFO incredible. found 19 entries out of 31
+11:44:34,283 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:44:45,63 root INFO started connecting to the DB...
+11:44:45,80 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:44:45,81 root INFO looking for lowenstamm1996, scheer2004, scheer2012, klv1990, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+11:44:45,91 root INFO incredible. found 19 entries out of 31
+11:44:45,91 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:44:45,92 root INFO finished building the ref file! yay!
+11:45:07,142 root INFO started connecting to the DB...
+11:45:07,165 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:45:07,166 root INFO looking for lowenstamm1996, scheer2004, scheer2012, klv1990, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+11:45:07,176 root INFO incredible. found 19 entries out of 31
+11:45:07,176 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:45:07,177 root INFO finished building the ref file! yay!
+11:45:18,407 root INFO started connecting to the DB...
+11:45:18,429 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:45:18,430 root INFO looking for lowenstamm1996, scheer2004, scheer2012, klv1990, larsen1998, scheersszigetvari2005, lowenstamm1991, lowenstamm2011, bensisaid2011, enguehard2018, solopov-antonets2011, kaksin2010, tyutyunnikova2022, kenstowicz1997, delacy2002, helimski1998, shih2016, cardona1965, mistry1997, cardona-suthar2003, doctor2004, delacy2004, delacy2006, rasin2018, kaye1990, scheer2019, scheer-szigetvari2005, enguehard2015, enguehard2014, ulfsbjorninn2021, giavazzi2010
+11:45:18,442 root INFO incredible. found 19 entries out of 31
+11:45:18,442 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:45:18,442 root INFO finished building the ref file! yay!
+11:46:10,421 root INFO started connecting to the DB...
+11:46:10,440 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:46:10,440 root INFO looking for helimski1998, cardona1965, mistry1997, cardona-suthar2003, doctor2004, kaye1990, scheer-szigetvari2005, enguehard2014
+11:46:10,443 root INFO incredible. found 1 entries out of 8
+11:46:10,443 root INFO writing to /Users/shikunova/Desktop/uni/moksha/empty_cvs
+11:46:10,444 root INFO finished building the ref file! yay!
+11:47:44,621 root INFO started connecting to the DB...
+11:47:44,637 root INFO Pinged your deployment. You successfully connected to MongoDB!
+11:47:45,577 root INFO found 81 bib documents
+11:47:45,577 root INFO starting processing...
+11:47:45,806 root INFO error in file /Users/shikunova/Desktop/uni/research/russian/reduction/ref.bib
+11:47:45,996 root INFO error in file /Users/shikunova/Desktop/uni/research/poly_stress/ref.bib
+11:47:46,209 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/ref-soul.bib
+11:47:46,209 root INFO error in file /Users/shikunova/Desktop/uni/moksha/доклад/revised_jul_paper/shikunova_moksha_jul/ref-soul.bib
+11:47:46,259 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref.bib
+11:47:46,263 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/ref copy.bib
+11:47:46,374 root INFO error in file /Users/shikunova/Desktop/uni/moksha/empty_cvs/radical_template/demo.bib
+11:47:46,449 root INFO error in file /Users/shikunova/Desktop/uni/forest_nenets/fnz_schwa/ref.bib
+11:47:46,599 root INFO error in file /Users/shikunova/Desktop/uni/OLD/KURSOVAYA/text/foc.bib
+11:47:46,852 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_uralic_phonology/handouts/ref.bib
+11:47:46,879 root INFO error in file /Users/shikunova/Desktop/uni/teaching/EGG_stress_in_cvcv/handouts/ref.bib
+11:47:46,962 root INFO finished refreshing the base! yay!

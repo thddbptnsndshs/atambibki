@@ -6,38 +6,20 @@ INFO - Processing section 0
 INFO - Looking for bibtex file 'ref.bib' for section 0
 INFO - LaTeX decoding ...
 INFO - Found BibTeX data source 'ref.bib'
-INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
 INFO - No sort tailoring available for locale 'en-US'
 INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
 INFO - Output to thesis.bbl
-WARN - I didn't find a database entry for 'lowenstamm1996' (section 0)
-WARN - I didn't find a database entry for 'larsen1998' (section 0)
-WARN - I didn't find a database entry for 'scheersszigetvari2005' (section 0)
-WARN - I didn't find a database entry for 'lowenstamm1991' (section 0)
-WARN - I didn't find a database entry for 'lowenstamm2011' (section 0)
-WARN - I didn't find a database entry for 'bensisaid2011' (section 0)
-WARN - I didn't find a database entry for 'enguehard2018' (section 0)
-WARN - I didn't find a database entry for 'solopov-antonets2011' (section 0)
-WARN - I didn't find a database entry for 'kaksin2010' (section 0)
-WARN - I didn't find a database entry for 'tyutyunnikova2022' (section 0)
-WARN - I didn't find a database entry for 'kenstowicz1997' (section 0)
-WARN - I didn't find a database entry for 'delacy2002' (section 0)
+WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
 WARN - I didn't find a database entry for 'helimski1998' (section 0)
-WARN - I didn't find a database entry for 'shih2016' (section 0)
 WARN - I didn't find a database entry for 'cardona1965' (section 0)
 WARN - I didn't find a database entry for 'mistry1997' (section 0)
 WARN - I didn't find a database entry for 'cardona-suthar2003' (section 0)
 WARN - I didn't find a database entry for 'doctor2004' (section 0)
-WARN - I didn't find a database entry for 'delacy2004' (section 0)
-WARN - I didn't find a database entry for 'delacy2006' (section 0)
-WARN - I didn't find a database entry for 'rasin2018' (section 0)
 WARN - I didn't find a database entry for 'kaye1990' (section 0)
-WARN - I didn't find a database entry for 'scheer2019' (section 0)
 WARN - I didn't find a database entry for 'scheer-szigetvari2005' (section 0)
-WARN - I didn't find a database entry for 'enguehard2015' (section 0)
 WARN - I didn't find a database entry for 'enguehard2014' (section 0)
-WARN - I didn't find a database entry for 'ulfsbjorninn2021' (section 0)
-WARN - I didn't find a database entry for 'giavazzi2010' (section 0)
-INFO - WARNINGS: 28
+INFO - WARNINGS: 10

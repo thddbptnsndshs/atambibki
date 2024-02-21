@@ -34,16 +34,15 @@ if __name__ == "__main__":
         content = json.load(f)
         logging.info(f'found {len(content)} bib documents')
         logging.info(f'starting processing...')
-        # print(content)
-        # assert False
     for bib_fn in tqdm(content):
         print(bib_fn)
         entry_dicts = read_bib_file(bib_fn)
         for entry in entry_dicts:
             try:
                 refs.insert_one(entry)
-            except DuplicateKeyError:  # skip duplicates
-                pass
+            except DuplicateKeyError:  # if duplicate, refresh the entry
+                refs.delete_one({'_id': entry['_id']})
+                refs.insert_one(entry)
         print(f'inserted {len(entry_dicts)} entries from {bib_fn}')
 
     logging.info('finished refreshing the base! yay!')
